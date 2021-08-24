@@ -4,8 +4,6 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Assignment Description
 [Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
 
-## Submission Instructions
-
 ### Overview
 
 This project will be a portal in which non-profit organizations and charities can find interested volunteer and donor candidates, and vice versa. An organization will register as a user, create a profile, interact with individual users while promoting their causes via a tagging system. As a registered user, organizations will update or delete their account as needed.
