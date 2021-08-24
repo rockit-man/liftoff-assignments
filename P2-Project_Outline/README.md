@@ -22,13 +22,7 @@ Automatic database CRUD: Users of various types and causes will be automatically
 
 ### Technologies
 
-IntelliJ
-Spring Boot
-Java
-Hibernate (JPA)
-Thymeleaf
-Bootstrap
-MySQL
+IntelliJ, Spring Boot, Java, Hibernate (JPA), Thymeleaf, Bootstrap, & MySQL
 
 ### What I'll Have to Learn
 
